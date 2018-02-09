@@ -21,7 +21,7 @@ Yêu cầu:
 
 # Giới thiệu 
 
-## Hệ thống thông tin quản lý phát triển đô thị thông mình (đang phát triển bởi Trịnh Hữu Hoàng) gồm:
+## Hệ thống thông tin quản lý phát triển đô thị thông mình (đang phát triển) gồm:
 
 	1. Hệ thống thông tin quản lý hỗ trợ người dân doanh nghiệp khai thác thông tin về quy hoạc và phát triển đô thị.
 	2. Hệ thống thông tin quản lý hỗ trợ Sở Xây dựng cung cấp, cập nhật và khai thác thông tin về quy hoạch và phát triển đô thị. 
@@ -40,7 +40,7 @@ Yêu cầu:
 	- [] 9.
 
 Ghi chú: 
-- [] Đánh dấu công việc cần làm 
+- [ ] Đánh dấu công việc cần làm 
 - [x] Đã hoàn thành
 
 # Hướng thực hiện 
