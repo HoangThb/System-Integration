@@ -6,20 +6,20 @@ Lớp: INT3211 - 2018
 
 ## Thành viên nhóm: 
 
-	- Trịnh Hữu Hoàng (nhóm trưởng)
-	- Phan Thị Hạnh
-	- Lê Anh Quân
-	- Phạm Phương Tùng 
-	- Trần Thị Minh Tươi 
+- Trịnh Hữu Hoàng (nhóm trưởng)
+- Phan Thị Hạnh
+- Lê Anh Quân
+- Phạm Phương Tùng 
+- Trần Thị Minh Tươi 
 
 ## Bài tập lớn:
 
 ### Yêu cầu:
 
-	* Sử dụng mô hình RESTfull Web Service
-	* Hệ tích hợp được có tối thiểu 3 dịch vụ/ứng dụng
-	* Toàn bộ kết quả đồng bộ lên GitHub, bao gồm: src, Report.docx,Slides.pptx, Readme.txt
-	* Mỗi nhóm trình bày kết quả trước Giảng viên và toàn thể lớp trong khoảng thời gian 1h.
+* Sử dụng mô hình RESTfull Web Service
+* Hệ tích hợp được có tối thiểu 3 dịch vụ/ứng dụng
+* Toàn bộ kết quả đồng bộ lên GitHub, bao gồm: src, Report.docx,Slides.pptx, Readme.txt
+* Mỗi nhóm trình bày kết quả trước Giảng viên và toàn thể lớp trong khoảng thời gian 1h.
 
 # Giới thiệu 
 
