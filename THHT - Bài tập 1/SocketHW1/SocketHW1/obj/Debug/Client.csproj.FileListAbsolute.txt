@@ -1,0 +1,20 @@
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\bin\Debug\SocketHW1.exe.config
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\bin\Debug\SocketHW1.exe
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\bin\Debug\SocketHW1.pdb
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\SocketHW1.Properties.Resources.resources
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\SocketHW1.exe
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\SocketHW1.pdb
+E:\OneDrive\Projects\C#\SocketHW1\SocketHW1\obj\Debug\SocketHW1.Form1.resources
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\bin\Debug\SocketHW1.exe.config
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\bin\Debug\SocketHW1.exe
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\bin\Debug\SocketHW1.pdb
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\SocketHW1.Form1.resources
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\SocketHW1.Properties.Resources.resources
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\SocketHW1.exe
+C:\Users\ChipHN\Desktop\THHT - Bài tập 1\SocketHW1\SocketHW1\obj\Debug\SocketHW1.pdb
